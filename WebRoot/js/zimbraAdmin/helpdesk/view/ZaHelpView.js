@@ -5,7 +5,7 @@
  *
  * The contents of this file are subject to the Common Public Attribution License Version 1.0 (the "License");
  * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at: https://www.zimbra.com/license
+ * You may obtain a copy of the License at: https://www..zimbra.com/license
  * The License is based on the Mozilla Public License Version 1.1 but Sections 14 and 15
  * have been added to cover use of software over a computer network and provide for limited attribution
  * for the Original Developer. In addition, Exhibit A has been modified to be consistent with Exhibit B.
@@ -38,9 +38,9 @@ ZaHelpView = function(parent) {
 ZaHelpView.mainHelpPage = "administration_console_help.htm";
 
 // URL for the most latest documentation page
-ZaHelpView.RELEASE_NOTES_URL = "https://www.zimbra.com/support/documentation/zcs-ne-documentation.html";
+ZaHelpView.RELEASE_NOTES_URL = "https://github.com/hernad/zm-build/support/documentation/zcs-ne-documentation.html";
 
-ZaHelpView.HELP_FORUM_LINK = "https://www.zimbra.com/forums/";
+ZaHelpView.HELP_FORUM_LINK = "https://github.com/hernad/zm-build/issues/";
 ZaHelpView.HELP_WIKI_LINK = "https://wiki.zimbra.com";
 ZaHelpView.prototype = new ZaTabView();
 ZaHelpView.prototype.constructor = ZaHelpView;

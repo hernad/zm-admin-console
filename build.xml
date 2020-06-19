@@ -1080,7 +1080,7 @@ ext = BeanUtils.cook(ext);
                                 /*
                                  * Zimbra Collaboration Suite Web Client
                                  * Copyright (C) 2004-2017 Synacor, Inc.
-                                 * https://www.zimbra.com/license
+                                 * https://www..zimbra.com/license
                                  */
                             </header>
                             <fileset file='@{var}${jsmin.ext}'/>

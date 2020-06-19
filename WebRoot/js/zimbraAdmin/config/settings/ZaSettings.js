@@ -5,7 +5,7 @@
  *
  * The contents of this file are subject to the Common Public Attribution License Version 1.0 (the "License");
  * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at: https://www.zimbra.com/license
+ * You may obtain a copy of the License at: https://www..zimbra.com/license
  * The License is based on the Mozilla Public License Version 1.1 but Sections 14 and 15
  * have been added to cover use of software over a computer network and provide for limited attribution
  * for the Original Developer. In addition, Exhibit A has been modified to be consistent with Exhibit B.
@@ -384,7 +384,7 @@ ZaSettings.D_INT			= 2;
 ZaSettings.D_BOOLEAN		= 3;
 ZaSettings.D_LDAP_TIME 	= 4;
 ZaSettings.D_HASH_TABLE 	= 5;
-ZaSettings.LOGO_URI = "https://www.zimbra.com";
+ZaSettings.LOGO_URI = "https://github.com/hernad/zm-build";
 ZaSettings.CSFE_SERVER_URI = (location.port == "80") ? "/service/admin/soap/" : ":" + location.port + "/service/admin/soap/";
 ZaSettings.CSFE_MSG_FETCHER_URI = (location.port == "80") ? "/service/content/get?" : ":" + location.port + "/service/content/get?";
 ZaSettings.CONFIG_PATH = location.pathname + "js/zimbraAdmin/config";
